@@ -1,2 +1,2 @@
 # Needle-Knight
-Projeto da cadeira de introdução a programação, o qual consiste em fazer um jogo usando a linguagem C com a biblioteca Raylib
+Introduction to Programming course project, which consists of making a game using C in conjunction with the Raylib library
